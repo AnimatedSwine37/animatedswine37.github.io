@@ -43,6 +43,8 @@ In general, any kind of mod that you'd see in an Unreal Engine game should be po
 - Music Mods
 - Ligthing Mods 
 
+To make most types of mods creators will need to download Unreal Engine 4.XX (we won't know the exact version until release) which will be a substantial change in workflow from previous games. Because of this, you should expect people to take some time whilst they learn the new tools.
+
 ### Music Mods
 As [reported by MeovvCAT](https://x.com/osu_MeovvCAT/status/1750113534732562733?s=20), P3R is confirmed to use Criware middleware which is a common middleware used to play videos and audio. 
 
@@ -66,11 +68,11 @@ The patches that Unreal Essentials applies hook functions that are a part of Unr
 Unreal Essentials has been tested against games with unreal engine versions 4.25 to 4.27 so as long as P3R uses one of these versions it should immediately work. If it turns out a custom version is being used (as some games like Hi-Fi Rush do) it should still be relatively easy to find the necessary signatures as Ghidra's new [BSim](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/BSim) feature makes it easy to find similar functions between different progarms. This should hopefully only delay mod loading for a few hours (a few days absolute worst case).
 
 ## When will X mod be made?
-Even if peoeple have the ability to make mods on day one (or very soon after), that does not necessarily mean many mods will be released that soon. 
+Even if people have the ability to make mods on day one (or very soon after), that does not necessarily mean many mods will be released that soon. 
 
 Most mod makers probably want to actually play the game so please be patient. Do not harass modders to create something, if there is something that you want that desperately then consider making it yourself instead. 
 
-With this new Engine there will be a bit of a knowledge reset and I, and others, will be aiming to create better documentation for modding so making stuff yourself should be more achievable (this will of course take time).
+With this new Engine there will be a bit of a knowledge reset so I, and others, will be aiming to create better documentation for modding so making stuff yourself should be more achievable (this will of course take time). One of the places this documentation will hopefully be is on the (currently very WiP) [modding docs](https://animatedswine37.github.io/persona-modding-docs/).
 
 ## How can I stay up to date?
 The best place to keep up to date on major P3R modding news is the [Persona Modding Discord Server](https://discord.gg/naoto). 
