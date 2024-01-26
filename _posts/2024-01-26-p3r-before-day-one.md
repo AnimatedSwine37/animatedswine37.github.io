@@ -62,6 +62,11 @@ A tool that could be greatly helpful for code mods is [UE4SS](https://github.com
 
 We'll have to wait until people (like myself) actually start writing code mods to see how they're used, but in general the sky is the limit with them (given enough time and effort).
 
+## What about Game Pass?
+As was the case with the other games that were on Game Pass, modding will likely be possible, but harder to do and potentially more limited. This is because the Game Pass version has a different executable with DRM that is built into Windows, adding some complexity to getting anything working at all with it. If Unreal Essentials doesn't work out of the box with Game Pass I will try to fix that, however, it won't be a priority.
+
+If you can afford it, you're going to have a much better time modding with the Steam version of the game.
+
 ## How are these tools being made already?
 The patches that Unreal Essentials applies hook functions that are a part of Unreal Engine. As this code does not change between games using the same engine version we can find it "universally" using [signature scanning](https://reloaded-project.github.io/Reloaded-II/CheatSheet/SignatureScanning/). 
 
