@@ -13,6 +13,7 @@ Note that whilst I've done my best, I'm not psychic, everything should be taken 
 > - Reloaded will be used for P3R mods utilising the new Unreal Essentials mod. 
 > - UTOC signatures are not a problem, any UTOC or PAK files should be loadable day one (or very soon after).
 > - All common types of mods should be possible, some may take longer to make as we get used to the tools.
+> - Get the Steam version if you can, Game Pass will likely be more limited and more complex to mod.
 > - Don't harass modders, we want to play the game too.
 {: .prompt-info }
 
