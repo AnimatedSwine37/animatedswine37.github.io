@@ -7,7 +7,7 @@ toc: true
 Persona 3 Reload is now out so I've put together some information on how we'll mod it on day one and in the future. This is essentially an update to my [Before Day One post](/posts/p3r-before-day-one) from earlier utilising the new information we now have.
 
 > **tldr;**
-> - It will take between a few hours and a day or two before modding tools are publicly ready, please be patient.
+> - The tools needed for modding will be publicly ready in the next few days, please be patient.
 > - [Unreal Essentials](https://github.com/AnimatedSwine37/UnrealEssentials) will be used to loosely load files with [Reloaded](https://reloaded-project.github.io/Reloaded-II/)
 > - UTOC signatures are not a problem, all files can be replaced
 > - Every type of mod should be possible, some may take longer as people learn new tools
@@ -17,7 +17,9 @@ Persona 3 Reload is now out so I've put together some information on how we'll m
 {: .prompt-info }
 
 ## When will modding tools be ready? (READ THIS!!!)
-This is the big question and the answer is somewhere between a few hours and a day or two. Whilst we've worked hard to prepare the tools in time, there are still some final things to do before they are ready for the public. We don't want to release something half baked so please be patient.
+This is the big question and the answer is, in the next few days. Note that I am purposely leaving this a bit vague to give us time, hopefully it will be sooner rather than later.
+
+Whilst we've worked hard to prepare the tools in time, there are still some final things to do before they are ready for the public. We don't want to release something half baked so please be patient.
 
 In the meantime you can use standard Unreal Engine tools to extract files and start looking into things if you'd like. (I'm not going to elborate more than that, if you already know what to do then go for it, otherwise please be patient and specific guides will come soon.)
 
