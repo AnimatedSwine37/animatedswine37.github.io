@@ -4,9 +4,10 @@ title: P3R Modding Day One Is Here
 date: 2024-02-02 00:23 +1000
 toc: true
 ---
-Persona 3 Reload is now out (on Game Pass) so I've put together some information on how we'll mod it on day one and in the future. This is essentially an update to my [Before Day One post](/posts/p3r-before-day-one) from earlier utilising the new information we now have.
+Persona 3 Reload is now out so I've put together some information on how we'll mod it on day one and in the future. This is essentially an update to my [Before Day One post](/posts/p3r-before-day-one) from earlier utilising the new information we now have.
 
 > **tldr;**
+> - It will take between a few hours and a day or two before modding tools are publicly ready, please be patient.
 > - [Unreal Essentials](https://github.com/AnimatedSwine37/UnrealEssentials) will be used to loosely load files with [Reloaded](https://reloaded-project.github.io/Reloaded-II/)
 > - UTOC signatures are not a problem, all files can be replaced
 > - Every type of mod should be possible, some may take longer as people learn new tools
@@ -14,6 +15,15 @@ Persona 3 Reload is now out (on Game Pass) so I've put together some information
 > - Criware is used for music so making those mods should be very familiar
 > - Give modders time, we want to play the game too
 {: .prompt-info }
+
+## When will modding tools be ready? (READ THIS!!!)
+This is the big question and the answer is somewhere between a few hours and a day or two. Whilst we've worked hard to prepare the tools in time, there are still some final things to do before they are ready for the public. We don't want to release something half baked so please be patient.
+
+In the meantime you can use standard Unreal Engine tools to extract files and start looking into things if you'd like. (I'm not going to elborate more than that, if you already know what to do then go for it, otherwise please be patient and specific guides will come soon.)
+
+> Everything below will be true **when the tools are ready** not neccessarily right now (I will update this when that happens).
+{: .prompt-warning }
+
 
 ## What mod loader will we use?
 Traditionally Unreal Engine games either use no modloader, requiring users to manually place files in the game's folder, or use [Unverum](https://github.com/TekkaGB/Unverum). In contrast, the mainline PC Persona games have used [Reloaded](https://reloaded-project.github.io/Reloaded-II/). To keep things consistent, we will be using Reloaded for P3R.
