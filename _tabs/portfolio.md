@@ -60,6 +60,19 @@ _A screenshot of the WiP Persona Event Message Editor (excuse the ugly UI, funct
 
 This program is my first serious attempt at making a full GUI program using [Avalonia](https://github.com/AvaloniaUI/Avalonia) and the [MVVM pattern](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm).
 
+## Unreal Essentials
+[Unreal Essentials](https://github.com/AnimatedSwine37/UnrealEssentials) is a framework for replacing files in Unreal Engine game. 
+I created it in the hopes of providing a universal way for people to mod Unreal Engine games that doesn't require putting files in the game's folder.
+
+Files can be loaded loosely from mod folders due to a number of hooks I made to Unreal Engine code after studying the source and getting help from people who'd done it previously.
+Additionally, loose files from UTOCs are possible thanks to integration with UTOC Emulator which [Rirurin](https://github.com/rirurin) created.
+The combination of these should make it easier for people to create mods and minimise compatibility issues.
+
+![Persona 3 Reload Essentials Thumbnail](P3REssentials.png)
+_The thumbnail for [P3R Essentials](https://github.com/AnimatedSwine37/p3rpc.essentials), the main mod to utilise Unreal Essentials currently (thumbnail by [Lynn](https://twitter.com/lynlyn_cpk))_
+
+Currently it's only really used by Persona 3 Reload through the [P3R Essentials](https://github.com/AnimatedSwine37/p3rpc.essentials) mod however, I hope more communities will pick it up in the future.
+
 ## Persona Modding Docs
 The [Persona Modding Docs](https://animatedswine37.github.io/persona-modding-docs/) site is a community driven documentation project that I'm running. 
 The aim of it is to create a centralised place to get information on modding all aspects of various Persona games as currently information is scattered between random discord channels and different websites if it's publicly available at all.
